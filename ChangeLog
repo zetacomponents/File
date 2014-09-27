@@ -1,4 +1,4 @@
-1.3 - Friday 19 September 2014
+1.3 - Saturday 27 September 2014
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 - Fixed issue #13658: tutorial_autoload.php fails under Windows.
@@ -9,6 +9,7 @@
 - Fixed #ZETACOMP-33: Many dead links (404)
 - Remove custom test runner.
 - Fix autoloading with composer
+
 
 1.2 - Monday 17 December 2007
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
